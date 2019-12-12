@@ -1,0 +1,8 @@
+100 # balloon size
+2 # growth rate in pixels
+10 # maximum possible number of pumps
+1 # cash per pump
+5 # number of trials
+Training phase\nHit <spacebar> to start # introduction slide
+New Trial, hit <spacebar> to start # between trials slide
+End\nTotal Earned:  # end slide
