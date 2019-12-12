@@ -14,6 +14,6 @@ Run `BART.py` with python 3.
 
 Upon the BART completion an output `.csv` file is generated in the same directory with the same name as the code specified in the participant's Id input field: test.csv as default.
 
-##Contact
+## Contact
 
 For further questions please contact davidnsousa@gmail.com.
