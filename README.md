@@ -24,4 +24,4 @@ David Sousa. (2019, December 12). davidnsousa/pyBART: A python implementation of
 
 ## Contact
 
-For further questions please contact davidnsousa@gmail.com.
+For further questions please contact from https://davidnsousa.github.io/.
